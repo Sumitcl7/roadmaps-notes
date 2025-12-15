@@ -1,0 +1,3 @@
+# roadmaps-notes
+Research and project roadmaps notes on ML and cloud
+all roadmaps and guidanced to start your AI Journey.....
